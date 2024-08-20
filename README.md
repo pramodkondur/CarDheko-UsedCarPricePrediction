@@ -99,6 +99,9 @@ i)	Provide clear instructions and error handling.
 Best models are Random Forest and XGBoost
 ![CHEESE!](EvaluationMetrics.png)
 
+## Checking to see for the Lasso and Ridge Regularization
+![CHEESE!](LassoRidge.png)
+
 ## The Best Parameters for the Best Two Models
 
 ![CHEESE!](RandomForestBestParam.png)
@@ -108,8 +111,7 @@ Best models are Random Forest and XGBoost
 ![CHEESE!](RandomForestRetrained.png)
 ![CHEESE!](XGboostRetrained.png)
 
-## Checking to see for the Lasso and Ridge Regularization
-![CHEESE!](LassoRidge.png)
+## Best Model is XGBoost with a train R2 score of 0.988 and a test R2 score of 0.958
 
 ## Link to the notebook file
 You can view the full notebook with detailed analysis and code [here](./Main.ipynb).
