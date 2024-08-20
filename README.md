@@ -100,7 +100,7 @@ Best models are Random Forest and XGBoost
 ![CHEESE!](XGboostRetrained.png)
 
 #### Checking to see for the Lasso and Ridge Regularization
-![CHEESE!](Lasso:Ridge Metrics.png)
+![CHEESE!](LassoRidge.png)
 
 ### Link to the notebook file
 You can view the full notebook with detailed analysis and code [here](./Main.ipynb).
