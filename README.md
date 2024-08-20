@@ -87,9 +87,27 @@ i)	Allow users to input car features and get real-time price predictions.
 ###### b)	User Interface Design: Ensure the application is user-friendly and intuitive.
 i)	Provide clear instructions and error handling.
 
+##### Evaluation Metrics
+Best models are Random Forest and XGBoost
+![CHEESE!](EvaluationMetrics.png)
+
+##### The Best Parameters for the Best Two Models
+![CHEESE!](RandomForestBestParam.png)
+![CHEESE!](XGBoostBestParam.png)
+
+##### Retrained Model with Best Parameters
+![CHEESE!](RandomForestRetrained.png)
+![CHEESE!](XGboostRetrained.png)
+
+##### Checking to see for the Lasso and Ridge Regularization
+![CHEESE!](Lasso/Ridge Metrics.png)
+
 ### Link to the notebook file
 You can view the full notebook with detailed analysis and code [here](./Main.ipynb).
 
+### StreamLit Output 
+![CHEESE!](Page1StremLit.png)
+![CHEESE!](Page2StremLit.png)
 
 ### Results: 
 1.	A functional and accurate machine learning model for predicting used car prices.
