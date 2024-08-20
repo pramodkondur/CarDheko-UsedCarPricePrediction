@@ -1,6 +1,6 @@
 # Car Dheko - Used Car Price Prediction
 
-### Skills take away From This Project
+### Keywords From This Project
 1.	Data Cleaning and Preprocessing
 2.	Exploratory Data Analysis
 3.	Machine Learning Model Development
