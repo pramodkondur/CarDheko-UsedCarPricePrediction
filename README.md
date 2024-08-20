@@ -81,25 +81,25 @@ i)	Used domain knowledge and exploratory data analysis insights.
 ##### b)	Regularization: Apply regularization techniques to prevent overfitting.
 i)	Lasso (L1) and Ridge (L2) regularization.
 
-##### 6)	 Deployment
-###### a)	Streamlit Application: Deploy the final model using Streamlit to create an interactive web application.
+#### 6)	 Deployment
+##### a)	Streamlit Application: Deploy the final model using Streamlit to create an interactive web application.
 i)	Allow users to input car features and get real-time price predictions.
-###### b)	User Interface Design: Ensure the application is user-friendly and intuitive.
+##### b)	User Interface Design: Ensure the application is user-friendly and intuitive.
 i)	Provide clear instructions and error handling.
 
-##### Evaluation Metrics
+#### Evaluation Metrics
 Best models are Random Forest and XGBoost
 ![CHEESE!](EvaluationMetrics.png)
 
-##### The Best Parameters for the Best Two Models
+#### The Best Parameters for the Best Two Models
 ![CHEESE!](RandomForestBestParam.png)
 ![CHEESE!](XGBoostBestParam.png)
 
-##### Retrained Model with Best Parameters
+#### Retrained Model with Best Parameters
 ![CHEESE!](RandomForestRetrained.png)
 ![CHEESE!](XGboostRetrained.png)
 
-##### Checking to see for the Lasso and Ridge Regularization
+#### Checking to see for the Lasso and Ridge Regularization
 ![CHEESE!](Lasso/Ridge Metrics.png)
 
 ### Link to the notebook file
@@ -107,7 +107,7 @@ You can view the full notebook with detailed analysis and code [here](./Main.ipy
 
 ### StreamLit Output 
 ![CHEESE!](Page1StremLit.png)
-![CHEESE!](Page2StremLit.png)
+![CHEESE!](Page2StreamLit.png)
 
 ### Results: 
 1.	A functional and accurate machine learning model for predicting used car prices.
